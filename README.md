@@ -12,7 +12,7 @@ Link to demo : https://kedarmh-portfolio.netlify.app/
 
 ## Authors
 
-- [@Kedar M H](https://github.com/KedarMH)
+- [@Nandeesh s mysore matt](https://github.com/nandeeshsmysorematt)
 
 ## 🛠 Skills
 
@@ -24,4 +24,4 @@ HTML, CSS, JavaScript, React, Tailwind CSS...
 
 ## Screenshots
 
-![App Screenshot](https://res.cloudinary.com/dlrldeuog/image/upload/v1683532648/portfolio_screenshot_cn9285.jpg)
+![App Screenshot]
